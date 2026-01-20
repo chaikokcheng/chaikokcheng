@@ -82,47 +82,6 @@ WRO Robotic Challenge (Individual) – International 2nd Runner-Up
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
----
-
-## 🏢 Experience
-
-* **Accenture – Tech Consulting Intern**  
-  • Contributed to a large-scale AI and digital transformation project for a leading energy client.  
-  • Developed and deployed machine-learning models to optimise operational decision-making across 5+ departments.  
-  • Engineered data pipelines and integrated model outputs into dashboards using Python, SQL, and Power BI.  
-  • Enabled real-time performance insights that improved business visibility and reporting efficiency.  
-
-
----
-
-## 🚀 Featured Projects
-
-### 1) MyCFO – Financial AI Chatbot  
-**Stack:** React Native · NestJS · Django · OpenAI Assistants API · ARIMA · Supabase · SQL  
-**What it does:** Personalised financial forecasting, tax insights, and product suggestions with an agentic workflow.  
-**Impact:** 30% faster planning for users; 1st Runner-Up at UMHackathon and invited to present to a digital bank.  
-
----
-
-### 2) FreshRescue – AI-Enhanced Food Waste Reduction  
-**Stack:** Flutter · TensorFlow · Firebase · Gemini AI  
-**What it does:** Identifies food items, tracks freshness/expiry, and suggests usage to reduce waste (SDG 2 & 12).  
-**Impact:** Champion at DevHack; presented at DevFest George Town 2023.  
-
----
-
-### 3) PiezoBolt – SAP Analytics Cloud Solution  
-**Stack:** SAP Analytics Cloud · AppGyver · AI Dashboard  
-**What it does:** Provides real-time insights for energy operations, improving decision-making speed.  
-**Impact:** EY YTPC Champion; achieved ~35% faster insight-to-action cycle.  
-
----
-
-### 4) FYP – Intelligent Forecasting & Debt Management (Agentic AI)  
-**Stack:** Python · Agentic AI · NLP Tools · Tool-Execution Framework  
-**What it does:** Autonomously analyses user data to generate personalised forecasts, repayment strategies, and expense tracking insights.  
-
-
 ## 📫 Contact
 
 * 🔗 LinkedIn: https://www.linkedin.com/in/chaikokcheng
