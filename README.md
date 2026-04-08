@@ -29,6 +29,34 @@ WRO Robotic Challenge (Individual) – International 2nd Runner-Up
 
 ---
 
+## 🏢 Experience
+
+* **Accenture – Tech Consulting Intern**  
+  • Contributed to a large-scale AI and digital transformation project for a leading energy client.  
+  • Developed and deployed machine-learning models to optimise operational decision-making across 5+ departments.  
+  • Engineered data pipelines and integrated model outputs into dashboards using Python, SQL, and Power BI.  
+  • Enabled real-time performance insights that improved business visibility and reporting efficiency.  
+
+
+---
+
+## 🚀 Featured Projects
+
+### 1) [MyCFO – Financial AI Chatbot](https://github.com/AsynchronousNotAvailable/VHack2024)
+**Stack:** React Native · NestJS · Django · OpenAI Assistants API · ARIMA · Supabase · SQL  
+**What it does:** Personalised financial forecasting, tax insights, and product suggestions with an agentic workflow.  
+**Impact:** 30% faster planning for users; 1st Runner-Up at UMHackathon and invited to present to a digital bank.  
+
+---
+
+### 2) [SecureBank – Transactional Banking API](https://github.com/chaikokcheng/SecureBank-JavaSpringboot)
+
+**Stack:** Java Spring Boot · Spring Security · PostgreSQL
+**What it does:** Provides a secure REST API for digital banking featuring role-based JWT authentication and ACID-compliant fund transfers.
+**Impact:** Eradicated critical "double-spend" concurrency bugs via pessimistic database locking, guaranteeing high financial accuracy under heavy concurrent load.
+
+---
+
 # 💻 Tech Stack
 
 ## Languages
