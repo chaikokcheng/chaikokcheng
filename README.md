@@ -87,3 +87,9 @@ WRO Robotic Challenge (Individual) – International 2nd Runner-Up
 * 🔗 LinkedIn: https://www.linkedin.com/in/chaikokcheng
 
 If my projects resonate with you, feel free to open an issue or reach out—happy to collaborate! ✨
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chaikokcheng/chaikokcheng/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chaikokcheng/chaikokcheng/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/chaikokcheng/chaikokcheng/output/github-snake.svg">
+</picture>
