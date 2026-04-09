@@ -50,8 +50,7 @@ WRO Robotic Challenge (Individual) – International 2nd Runner-Up
 ---
 
 ### 2) [SecureBank – Transactional Banking API](https://github.com/chaikokcheng/SecureBank-JavaSpringboot)
-
-**Stack:** Java Spring Boot · Spring Security · PostgreSQL
+**Stack:** Java Spring Boot · Spring Security · PostgreSQL  
 **What it does:** Provides a secure REST API for digital banking featuring role-based JWT authentication and ACID-compliant fund transfers.
 **Impact:** Eradicated critical "double-spend" concurrency bugs via pessimistic database locking, guaranteeing high financial accuracy under heavy concurrent load.
 
